@@ -1,4 +1,4 @@
-# Spring Boot "Project Plan" Console Project
+# Spring Boot "Project Plan" Console App
 
 ##Pre requisites
 Java 11 Maven 4.0.0 PostGreSql running instance 
